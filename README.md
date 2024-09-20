@@ -38,7 +38,7 @@ Follow these steps to set up the environment and install dependencies:
    Open your terminal and run the following command to clone the project:
 
    ```bash
-   git clone https://github.com/Josewathome/flappy-bird-y.git
+   git clone https://github.com/Josewathome/flappy-bird.git
    ```
 
 2. **Navigate to the project folder:**
